@@ -238,20 +238,7 @@ docker-compose logs -f <servico>
 - ✅ **Gerenciamento visual** via Portainer
 - ✅ **Orquestração completa** com Docker Compose
 
-## 👥 Informações do Trabalho
-
-- **Disciplina:** Sistemas Distribuídos
-- **Valor:** 10,0 pontos
-- **Grupos:** Até 3 pessoas
-- **Tecnologias:** Docker, Node.js, PostgreSQL, Adminer, Portainer
-
 ---
 
-**🎬 Para o vídeo de demonstração, mostre:**
+**🎬 Link para o vídeo de demonstração:**
 
-1. Execução do `docker-compose up -d`
-2. Acesso à aplicação em http://localhost:8080
-3. Adicionar/remover usuários
-4. Demonstração do Adminer
-5. Demonstração do Portainer
-6. Explicação do arquivo docker-compose.yml
